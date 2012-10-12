@@ -28,8 +28,8 @@ Skład zespołu:
       - "tryb oszczedzania energii"
   - Zarządzanie odnawialnymi źródłami energii na potrzeby gospodarstwa domowego
   - Mozliwość zdalnej kontroli systemu z poziomu urządzeń przenośnych
-  - Zautomatyzowany system płatności oraz zaopatrzenia
-      - kontrola stanu zaopatrzenia
-      - automatyczne robienie zakupów na podstawie poprzednich transakcji
+  - Zautomatyzowany system płatności oraz zapasów
+      - kontrola stanu zapasów
+      - automatyczne uzupełnianie zapasów na podstawie historii zamówień w sklepie internetowym
   - Party plugin
   - Sterowanie głosem
